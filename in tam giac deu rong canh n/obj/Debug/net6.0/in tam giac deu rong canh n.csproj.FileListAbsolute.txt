@@ -1,0 +1,14 @@
+C:\Users\phuongtin.vn\source\repos\in tam giac deu rong canh n\in tam giac deu rong canh n\obj\Debug\net6.0\in tam giac deu rong canh n.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phuongtin.vn\source\repos\in tam giac deu rong canh n\in tam giac deu rong canh n\obj\Debug\net6.0\in tam giac deu rong canh n.AssemblyInfoInputs.cache
+C:\Users\phuongtin.vn\source\repos\in tam giac deu rong canh n\in tam giac deu rong canh n\obj\Debug\net6.0\in tam giac deu rong canh n.AssemblyInfo.cs
+C:\Users\phuongtin.vn\source\repos\in tam giac deu rong canh n\in tam giac deu rong canh n\obj\Debug\net6.0\in tam giac deu rong canh n.csproj.CoreCompileInputs.cache
+C:\Users\phuongtin.vn\source\repos\in tam giac deu rong canh n\in tam giac deu rong canh n\bin\Debug\net6.0\in tam giac deu rong canh n.exe
+C:\Users\phuongtin.vn\source\repos\in tam giac deu rong canh n\in tam giac deu rong canh n\bin\Debug\net6.0\in tam giac deu rong canh n.deps.json
+C:\Users\phuongtin.vn\source\repos\in tam giac deu rong canh n\in tam giac deu rong canh n\bin\Debug\net6.0\in tam giac deu rong canh n.runtimeconfig.json
+C:\Users\phuongtin.vn\source\repos\in tam giac deu rong canh n\in tam giac deu rong canh n\bin\Debug\net6.0\in tam giac deu rong canh n.dll
+C:\Users\phuongtin.vn\source\repos\in tam giac deu rong canh n\in tam giac deu rong canh n\bin\Debug\net6.0\in tam giac deu rong canh n.pdb
+C:\Users\phuongtin.vn\source\repos\in tam giac deu rong canh n\in tam giac deu rong canh n\obj\Debug\net6.0\in tam giac deu rong canh n.dll
+C:\Users\phuongtin.vn\source\repos\in tam giac deu rong canh n\in tam giac deu rong canh n\obj\Debug\net6.0\refint\in tam giac deu rong canh n.dll
+C:\Users\phuongtin.vn\source\repos\in tam giac deu rong canh n\in tam giac deu rong canh n\obj\Debug\net6.0\in tam giac deu rong canh n.pdb
+C:\Users\phuongtin.vn\source\repos\in tam giac deu rong canh n\in tam giac deu rong canh n\obj\Debug\net6.0\in tam giac deu rong canh n.genruntimeconfig.cache
+C:\Users\phuongtin.vn\source\repos\in tam giac deu rong canh n\in tam giac deu rong canh n\obj\Debug\net6.0\ref\in tam giac deu rong canh n.dll
